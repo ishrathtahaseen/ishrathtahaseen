@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ishrathtahaseen
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ishrathtahaseen@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i'm very arrogantly funny
